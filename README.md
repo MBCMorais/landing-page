@@ -1,4 +1,5 @@
 Live Link(https://frontendmentorlandingpage.netlify.app/)
+<a href="https://frontendmentorlandingpage.netlify.app/" target="_blank">Live Link</a>
 
 # Frontend Mentor - Clipboard landing page
 
