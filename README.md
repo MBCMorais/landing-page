@@ -1,3 +1,5 @@
+Live Link(https://frontendmentorlandingpage.netlify.app/)
+
 # Frontend Mentor - Clipboard landing page
 
 ![Design preview for the Clipboard landing page coding challenge](./design/desktop-preview.jpg)
